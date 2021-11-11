@@ -1,0 +1,144 @@
+.bg-hero-section{
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-image: linear-gradient(to top, rgba(0,0,0,0.5),rgba(0,0,0,0.8)), url('../images/banner1.jpg');
+}
+.bg-hero-section-2{
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-image: linear-gradient(to top, rgba(0,0,0,0.5),rgba(0,0,0,0.8)), url('../images/markus-winkler-HeqXGxnsnX4-unsplash.jpg');
+}
+.search-hero{
+    position: relative;
+    max-width: 400px;
+    height: 40px;
+    background-color: #f2f2f2;
+    border-radius: 20px;
+}
+.search-hero-field{
+    background-color: transparent;
+    border: none;
+    width: 100%;
+    height: 100%;
+    outline: none;
+    padding:0 20px;
+}
+.search-hero-button{
+    cursor: pointer;
+    position: absolute;
+    width: 40px;
+    border:none;
+    border-radius: 20px;
+    height: 40px;
+    right: 0px;
+}
+
+.bg-image-1{
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-image: linear-gradient(to top, rgba(0,0,0,0.5),rgba(0,0,0,0.8)), url('../images/banner2.jpg');
+}
+
+/* Testimonials */
+.list-testimonial{
+    display: flex;
+    overflow-x: auto;
+}
+.testimonial{
+    padding:20px;
+    width: 300px;
+    margin:20px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    flex-direction: column;
+    justify-content: center;
+}
+.img-testimonial{
+    width: 300px;
+    border-radius: 100px;
+    object-fit: cover;
+    height: 300px;
+    margin-bottom: 20px;
+}
+.text-testimonial{
+    font-size: 14px;
+    margin-bottom: 10px;
+}
+.name-testimonial{
+    font-weight: bold;
+    color: var(--primary);
+}
+
+/* Panduan */
+#panduan{
+    position: relative;
+}
+#panduan::before{
+    position: absolute;
+    transform: rotate(-90deg);
+    color:#fff;
+    font-weight: bold;
+    left: -110px;
+    top: 50%;
+    content: "Bahagia Melihat Mereka Bahagia.."
+}
+#panduan .box{
+    cursor: pointer;
+    text-decoration: none;
+    bottom: 0px;
+    right: 0px;
+    padding:20px;
+    color:#fff;
+    position: absolute;
+    background-color: rgb(255, 117, 82);
+    width: 240px;
+}
+#panduan .box:hover{
+    background-color: rgb(255, 103, 65);
+}
+#panduan{
+    padding-bottom: 30px;
+}
+.list-panduan{
+    display: flex;
+    flex-direction: column;
+    padding:20px;
+}
+.panduan{
+    padding:20px;
+    margin-bottom: 20px;
+    width: 100%;
+    display: flex;
+    border-radius: 20px;
+    background-color: #fff;
+}
+.meta-panduan{
+    display: flex;
+    flex-direction: column;
+}
+.title-panduan{
+    font-weight: bold;
+    font-size: 20px;
+    font-family: 'Montserrat';
+}
+.text-panduan{
+    font-size: 14px;
+}
+.icon-panduan{
+    width: 60px;
+    height: 60px;
+    margin-right: 20px;
+    display: flex;
+    flex:none;
+    justify-content: center;
+    align-items: center;
+    border-radius: 10px;
+    color:#fff;
+}
