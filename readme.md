@@ -9,7 +9,7 @@ Patani is farmers crowdfunding website template. Included html, css, and js with
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
-[![Contributors][contributors-shield]](https://github.com/othneildrew/Best-README-Template/graphs/contributors)
+[![All Contributors](https://img.shields.io/badge/all_contributors-1-green.svg?style=for-the-badge)](#contributors-)
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
