@@ -10,8 +10,7 @@ Patani is farmers crowdfunding website template. Included html, css, and js with
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
 [![All Contributors](https://img.shields.io/badge/all_contributors-1-green.svg?style=for-the-badge)](#contributors-)
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
+![GitHub repo size in bytes](https://img.shields.io/github/repo-size/badges/shields.svg)
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
